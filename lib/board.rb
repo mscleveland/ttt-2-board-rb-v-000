@@ -6,7 +6,7 @@ row[0]
 # Position 2: Middle
 row[1]
 
-# Position 3: Right 
+# Position 3: Right
 row[2]
 
 row = [" ", " ", " "]
@@ -22,7 +22,7 @@ row[5]
 
 row = [" ", " ", " "]
 
-# Position 7: Left 
+# Position 7: Left
 row[6]
 
 #Position 8: Middle
